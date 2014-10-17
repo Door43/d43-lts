@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lts:home|Door43 (lts)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lts|d43-lts repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lts/archive/master.zip|d43-lts.zip]]
+
+**Recent Changes**
+{{changes>ns = lts}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lts|Ethnologue data]]
+
